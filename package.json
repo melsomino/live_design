@@ -1,0 +1,13 @@
+{
+	"name": "live_design",
+	"version": "1.0.0",
+	"scripts": {
+		"lds": "node live_design_server.js"
+	},
+	"bin": {
+		"lds": "node live_design_server.js"
+	},
+	"dependencies": {
+
+	}
+}
